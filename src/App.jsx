@@ -88,7 +88,7 @@ function App() {
           className="logo-ifrn"
           onError={function (e) { e.target.style.display = "none"; }}
         />
-        <h1>Sistema Escolar — Cadastro de Alunos</h1>
+        <h1>Sistema Escolar — Cadastro de Alunos e Professores</h1>
       </header>
       <BarraNavegacao />
       <MensagemErro mensagem={erro} />
